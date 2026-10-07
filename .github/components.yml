@@ -1,0 +1,6 @@
+components:
+  - name: contracts
+    runtime: dotnet
+    target: package
+    project: src/Contracts/Contracts.csproj
+    dotnet-version: '10.0.x'
